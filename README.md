@@ -7,7 +7,7 @@ I work with **Python, SQL and AWS**, focused on **energy & commodity data**. Alo
 ### Currently
 - BSc in Computer Engineering (UNIR, online) — in progress
 - Building with pandas: European power & gas prices from ENTSO-E data
-- AWS Certified Solutions Architect – Associate (2026)
+- AWS Certified Solutions Architect – Associate (2026) — [badge on Credly](https://www.credly.com/badges/63d555e2-f2a4-4aae-93c0-1aedfce54e37/public_url)
 - Digital consultancy for small businesses in Geneva
 
 ### Stack
